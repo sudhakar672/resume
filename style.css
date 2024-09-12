@@ -50,7 +50,7 @@ header {
     color: #fff;
     text-decoration: none;
     padding: 8px 35px;
-    background: #7d2ae8;
+    background: #0000FF;
     border-radius: 10px;
     border: 2px solid #7d2ae8;
     font-weight: 500;
@@ -58,7 +58,7 @@ header {
 }
 
 .btn-talk:hover {
-    color: #7d2ae8;
+    color: #0000FF;
     background: transparent;
 }
 
